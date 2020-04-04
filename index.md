@@ -2,16 +2,9 @@
 
 AI Technology sharer
 
+![Image description](https://raw.githubusercontent.com/WuKaiYi/AI-master.github.io/master/aimaster.png)
 
 
-
-### Markdown
-(https://octodex.github.com/images/yaktocat.png)
-
-
-
-
-### Jekyll Themes
 
 
 
