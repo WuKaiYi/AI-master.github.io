@@ -3,14 +3,17 @@
 AI Technology sharer
 
 ![Image of Yaktocat]
-(https://octodex.github.com/images/yaktocat.png)### Markdown
+(
 
+### Markdown
+https://octodex.github.com/images/yaktocat.png)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
 # Header 1
+https://octodex.github.com/images/yaktocat.png
 ## Header 2
 ### Header 3
 
